@@ -1,4 +1,4 @@
-
+Fix the official environment errors/incompatible
 # DINOv2 Depth Estimation Environment Setup & Usage Guide
 
 ## 📦 Installing Step One by One
